@@ -26,7 +26,7 @@ def create_app():
     entry_text = tk.Entry(root)
     entry_text.pack()
 
-    label_result = tk.Label(root, text="")
+    label_result = tk.Label(root, text="Tu pojawi się Twój tekst")
     label_result.pack()
 
 
